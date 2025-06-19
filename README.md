@@ -1,5 +1,7 @@
 # Roblox IP Grabber Script
 
+# DOES NOT WORK ANYMORE, ROBLOX UPDATED SYSTEM TO SPOOF IP's WHEN BEING PULLED.
+
 ## Overview
 This script is a simple command-line tool designed to trace the route to a specified Roblox ID. It utilizes the 'tracert' command to display the path that packets take to reach the target.
 
